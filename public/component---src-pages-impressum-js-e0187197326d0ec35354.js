@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_lander=self.webpackChunkgatsby_starter_lander||[]).push([[538],{1315:function(t,e,r){"use strict";r.r(e);r(7294);var s=r(6559),u=r(8100);e.default=function(){return(0,u.tZ)(s.Z,null,(0,u.tZ)("h1",null,"Impressum"),(0,u.tZ)("p",null,"Lorem ipsum dolor sit amet"))}}}]);
+//# sourceMappingURL=component---src-pages-impressum-js-e0187197326d0ec35354.js.map

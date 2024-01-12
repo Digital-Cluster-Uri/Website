@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://digital-cluster-uri.ch/sitemap.xml
+Host: https://digital-cluster-uri.ch

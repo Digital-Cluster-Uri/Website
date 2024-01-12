@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.29" height="53.332" viewBox="0 0 46.29 53.332">
+  <g id="Gruppe_2514" data-name="Gruppe 2514" transform="translate(6780.111 6606)">
+    <g id="Ellipse_27" data-name="Ellipse 27" transform="translate(-6752.167 -6606)" fill="none" stroke="#fff" stroke-width="3">
+      <circle cx="7.425" cy="7.425" r="7.425" stroke="none"/>
+      <circle cx="7.425" cy="7.425" r="5.925" fill="none"/>
+    </g>
+    <g id="Ellipse_25" data-name="Ellipse 25" transform="translate(-6776.438 -6601.369)" fill="none" stroke="#fff" stroke-width="3">
+      <circle cx="5.669" cy="5.669" r="5.669" stroke="none"/>
+      <circle cx="5.669" cy="5.669" r="4.169" fill="none"/>
+    </g>
+    <g id="Ellipse_29" data-name="Ellipse 29" transform="translate(-6780.111 -6587.158)" fill="none" stroke="#fff" stroke-width="3">
+      <circle cx="4.711" cy="4.711" r="4.711" stroke="none"/>
+      <circle cx="4.711" cy="4.711" r="3.211" fill="none"/>
+    </g>
+    <g id="Ellipse_30" data-name="Ellipse 30" transform="translate(-6743.242 -6590.619)" fill="none" stroke="#fff" stroke-width="3">
+      <circle cx="4.711" cy="4.711" r="4.711" stroke="none"/>
+      <circle cx="4.711" cy="4.711" r="3.211" fill="none"/>
+    </g>
+    <g id="Ellipse_31" data-name="Ellipse 31" transform="translate(-6761.269 -6566.878)" fill="none" stroke="#fff" stroke-width="3">
+      <ellipse cx="7.026" cy="7.106" rx="7.026" ry="7.106" stroke="none"/>
+      <ellipse cx="7.026" cy="7.106" rx="5.526" ry="5.606" fill="none"/>
+    </g>
+    <g id="Ellipse_26" data-name="Ellipse 26" transform="translate(-6768.773 -6591.469)" fill="none" stroke="#fff" stroke-width="3">
+      <circle cx="11.896" cy="11.896" r="11.896" stroke="none"/>
+      <circle cx="11.896" cy="11.896" r="10.396" fill="none"/>
+    </g>
+    <path id="Pfad_1052" data-name="Pfad 1052" d="M-8465.64-7738l2.989,3.922" transform="translate(1698.041 1146.531)" fill="none" stroke="#fff" stroke-width="3"/>
+    <path id="Pfad_1053" data-name="Pfad 1053" d="M0,0,2.989,3.922" transform="translate(-6772.269 -6581.61) rotate(-48)" fill="none" stroke="#fff" stroke-width="3"/>
+    <path id="Pfad_1054" data-name="Pfad 1054" d="M0,3.922,2.989,0" transform="translate(-6744.578 -6582.447) rotate(-132)" fill="none" stroke="#fff" stroke-width="3"/>
+    <path id="Pfad_1055" data-name="Pfad 1055" d="M-8390.672-7594.9l.442,2.9" transform="translate(1635.045 1026.278)" fill="none" stroke="#fff" stroke-width="3"/>
+    <path id="Pfad_1056" data-name="Pfad 1056" d="M-8356.06-7746.5l-2.481,4.034" transform="translate(1608.044 1153.674)" fill="none" stroke="#fff" stroke-width="3"/>
+  </g>
+</svg>
